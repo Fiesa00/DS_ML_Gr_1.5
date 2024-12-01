@@ -1,0 +1,24 @@
+Wettercode,Beschreibung,Leichter Regen,Starker Regen,Schnee,Zunehmend,Abnehmend/Nach,Sonstiges
+0,Wolkenentwicklung unbekannt,0,0,0,0,0,0
+3,zunehmende Bew”lkung,0,0,0,1,0,0
+5,Dunst,0,0,0,0,0,1
+10,feuchter Dunst/schwacher Nebel,0,0,0,0,0,1
+17,Gewitter h”rbar. kein Niederschlag,0,0,0,0,0,1
+20,Nach Sprhregen,0,0,0,0,1,0
+21,Nach Regen,0,0,0,0,1,0
+22,Nach Schnee,0,0,0,0,1,0
+28,Nach Nebel,0,0,0,0,1,0
+45,Nebel. Himmel sichtbar. zunehmend,0,0,0,1,0,0
+49,Raueis mit Nebel Himmel verdeckt,0,0,0,0,0,1
+53,M„áiger Sprhregen. anhaltend,1,0,0,0,0,0
+61,Leichter Regen. anhaltend,1,0,0,0,0,0
+63,M„áiger Regen. anhaltend,0,1,0,0,0,0
+65,Starker Regen. anhaltend,0,1,0,0,0,0
+68,Leichter Schneeregen,0,0,1,0,0,0
+69,M„áiger/Starker Schneeregen,0,0,1,0,0,0
+71,Leichter Schneefall. anhaltend,0,0,1,0,0,0
+73,M„áiger Schneefall. anhaltend,0,0,1,0,0,0
+75,Starker Scheefall. anhaltend,0,0,1,0,0,0
+77,Schneegriesel,0,0,1,0,0,0
+79,Eisk”rner,0,0,0,0,0,1
+95,Leichtes/m„áiges Gewitter mit Regen/Schnee,0,1,0,0,0,0
