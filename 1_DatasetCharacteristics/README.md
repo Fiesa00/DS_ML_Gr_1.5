@@ -2,7 +2,7 @@
 
 Hier werden Balkendiagramme für verschiedene Variablen für jede Warengruppe geplottet, um einen überblick zu erhalten welche Variablen für welche Warengruppen relevant sein könnten.
 
-Bakery-data Notebook: die drei Vorgegeben Daten-CSVs werden geladen und gemerged. Es werden einige Grafiken erstellt, um einen Einblick in die Daten und möglche Faktoren für die Umsatzverteilung zu erhalten.
+Bakery-data Notebook (/workspaces/DS_ML_Gr_1.5/1_DatasetCharacteristics/Bakery-data.ipynb): die drei Vorgegeben Daten-CSVs werden geladen und gemerged. Es werden einige Grafiken erstellt, um einen Einblick in die Daten und möglche Faktoren für die Umsatzverteilung zu erhalten.
 Erstellte Grafiken
  Balkendiagram Umsatz pro Warengruppe mit 95% Konfidenzintervallen
  Liniendiagram Mittlerer Umsatz pro Monat nach Warengruppe (mit und ohne Ausgleichsgrade)
@@ -14,7 +14,7 @@ Erstellte Grafiken
 
  Dieses dient weiter auch dazu das erstellen von verschiedenen Grafiken zu üben.
 
- Caracteristics Notebook: ES werden mit dem Dataframe aus Datapreparation Balkendiagramme erstellt, um einige Variablen zu veranschaulichen.
+ Characteristics Notebook (/workspaces/DS_ML_Gr_1.5/1_DatasetCharacteristics/Characteristics.ipynb): ES werden mit dem Dataframe aus Datapreparation Balkendiagramme erstellt, um einige Variablen zu veranschaulichen.
 
  Umsatz pro Warengruppe mit 95% Konfidenzintervallen nach Wochentag
  Umsatz pro Warengruppe mit 95% Konfidenzintervallen nach relativen Temperaturbereichen (hoch, mittel, niedrig...)
