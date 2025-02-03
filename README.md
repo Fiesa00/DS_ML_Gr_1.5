@@ -44,4 +44,4 @@ Regression
 
 ## Cover Image
 
-![](CoverImage/cover_image.png)
+![](/workspaces/DS_ML_Gr_1.5/4_Presentation/Cover image.png)
